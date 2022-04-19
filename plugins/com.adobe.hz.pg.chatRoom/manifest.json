@@ -1,0 +1,9 @@
+{
+    "name": "ChatRoom PG",
+    "id": "com.adobe.hz.pg.chatRoom",
+    "main": "code.js",
+    "editorType": ["canvas"],
+    "ui": "ui.html",
+    "type": "widget",
+    "icon": "chat.png"
+}
